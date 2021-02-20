@@ -5,3 +5,4 @@ Me parece que esto no va muy bien
 Añado un cambio más y ya vale
 Editado desde Github
 Añado una línea más al fichero
+No tengo ni idea de como gestionar las ramas
